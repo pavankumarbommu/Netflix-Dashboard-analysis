@@ -32,4 +32,10 @@ Netflix Movies and TV Shows dataset containing:
 - Interactive filters
 
 ## 📸 Dashboard Preview
-Screenshots are available in the images folder.
+
+![Dashboard Overview](images/dashboard_overview.png)
+
+![Genre Analysis](images/genre_analysis.png)
+
+![Country Analysis](images/country_analysis.png)
+
