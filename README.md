@@ -33,9 +33,7 @@ Netflix Movies and TV Shows dataset containing:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](images/dashboard_overview.png)
-
-![Genre Analysis](images/genre_analysis.png)
-
-![Country Analysis](images/country_analysis.png)
+![Dashboard Overview](https://github.com/pavankumarbommu/Netflix-Dashboard-analysis/blob/main/images/dashboard_overview.png.png)
+![Genre Analysis](https://github.com/pavankumarbommu/Netflix-Dashboard-analysis/blob/main/images/genre_analysis.png.png)
+![Country Analysis](https://github.com/pavankumarbommu/Netflix-Dashboard-analysis/blob/main/images/country_analysis.png.png)
 
