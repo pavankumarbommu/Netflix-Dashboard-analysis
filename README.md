@@ -57,12 +57,6 @@ The dataset is stored in the `dataset/` directory.
 
 ---
 
-## Live Dashboard
-Tableau Public Link:  
-(Add your Tableau Public link here)
-
----
-
 ## How to Use This Project
 1. Download the `.twbx` file from the `tableau/` folder  
 2. Open it using Tableau Desktop or Tableau Reader  
