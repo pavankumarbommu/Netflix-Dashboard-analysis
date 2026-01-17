@@ -1,131 +1,122 @@
-🎬 Netflix Tableau Dashboard
-📌 Project Overview
+# Netflix Tableau Dashboard
 
-This project presents an interactive Tableau dashboard built to analyze Netflix movies and TV shows.
-The dashboard provides insights into content distribution, genre trends, country-wise production, and release patterns using data visualization techniques.
+## Project Overview
+This project presents an interactive Tableau dashboard developed to analyze Netflix movies and TV shows.  
+The dashboard helps in understanding content distribution, genre popularity, country-wise production, and release trends using data visualization techniques.
 
-The objective of this project is to transform raw Netflix data into meaningful business insights that help understand content strategy and viewer trends.
+The objective of this project is to convert raw Netflix data into meaningful insights that support data-driven decision making.
 
-🎯 Project Objectives
+---
 
-Analyze Netflix content distribution across movies and TV shows
+## Project Objectives
+- Analyze Netflix content distribution across Movies and TV Shows  
+- Identify popular genres and producing countries  
+- Study content growth trends over time  
+- Create an interactive dashboard for analytical exploration  
 
-Identify popular genres and countries
+---
 
-Study content growth trends over the years
+## Tools and Technologies Used
+- Tableau – Dashboard development and visualization  
+- CSV / Excel – Data source  
+- Data Visualization Techniques  
+- GitHub – Version control and project documentation  
 
-Provide an interactive and visually appealing dashboard for analysis
+---
 
-🛠️ Tools & Technologies Used
-
-Tableau – Data visualization & dashboard creation
-
-CSV / Excel – Dataset source
-
-Data Visualization Techniques
-
-GitHub – Project version control and sharing
-
-📂 Dataset Information
-
+## Dataset Description
 The dataset contains information related to Netflix Movies and TV Shows, including:
+- Title  
+- Content Type (Movie / TV Show)  
+- Country  
+- Release Year  
+- Rating  
+- Duration  
+- Genre  
 
-Title
+The dataset is stored in the `dataset/` directory.
 
-Type (Movie / TV Show)
+---
 
-Country
+## Dashboard Features
+- Movies vs TV Shows comparison  
+- Genre-wise content distribution  
+- Country-wise analysis  
+- Release year trend visualization  
+- Interactive filters for analysis  
 
-Release Year
+---
 
-Rating
+## Dashboard Preview
 
-Duration
+![Dashboard Overview](images/dashboard_overview.png)
 
-Genre
+![Genre Analysis](images/genre_analysis.png)
 
-Dataset is stored in the dataset/ folder.
+![Country Analysis](images/country_analysis.png)
 
-📊 Dashboard Features
+---
 
-Movies vs TV Shows comparison
+## Live Dashboard
+Tableau Public Link:  
+(Add your Tableau Public link here)
 
-Genre-wise content distribution
+---
 
-Country-wise analysis of Netflix content
+## How to Use This Project
+1. Download the `.twbx` file from the `tableau/` folder  
+2. Open it using Tableau Desktop or Tableau Reader  
+3. Explore the dashboard using available filters  
 
-Release year trend visualization
+---
 
-Interactive filters and tooltips for better analysis
+## Key Insights
+- Netflix has more Movies than TV Shows  
+- Content production increased significantly after 2016  
+- United States and India are the top content-producing countries  
+- Drama and International content dominate the platform  
 
-📸 Dashboard Preview
+---
 
-🌐 Live Dashboard
-
-🔗 Tableau Public Link:
-(Add your Tableau Public link here once published)
-
-🚀 How to View the Project
-
-Download the .twbx file from the tableau/ folder
-
-Open it using Tableau Desktop or Tableau Reader
-
-Explore the interactive dashboard
-
-📈 Key Insights
-
-Netflix hosts more Movies than TV Shows
-
-Content production increased significantly after 2016
-
-USA and India are the top content-producing countries
-
-Drama and International content dominate the platform
-
-📁 Project Structure
+## Project Structure
 Netflix-Dashboard-analysis/
 │
 ├── dataset/
-│   └── netflix_titles.csv
+│ └── netflix_titles.csv
 │
 ├── images/
-│   ├── dashboard_overview.png
-│   ├── genre_analysis.png
-│   └── country_analysis.png
+│ ├── dashboard_overview.png
+│ ├── genre_analysis.png
+│ └── country_analysis.png
 │
 ├── tableau/
-│   └── NETFLIX_DASHBOARD.twbx
+│ └── NETFLIX_DASHBOARD.twbx
 │
 └── README.md
 
-💼 Use Case
+---
 
+## Use Case
 This project demonstrates:
-
-Data visualization skills
-
-Business insight generation
-
-Tableau dashboard development
-
-Analytical thinking
-
-Real-world data handling
+- Data visualization skills  
+- Business insight generation  
+- Dashboard development using Tableau  
+- Real-world dataset analysis  
 
 Suitable for:
+- Data Analyst roles  
+- Business Intelligence roles  
+- Tableau Developer roles  
 
-Data Analyst roles
+---
 
-Business Intelligence roles
+## Author
+Pavan Kumar Bommu  
+Aspiring Data Analyst | Tableau | Data Visualization  
 
-Tableau Developer roles
+---
 
-🙌 Author
-
-Pavan Kumar Bommu
-Data Analyst | Tableau | Data Visualization
-
-⭐ If you like this project
-
-Feel free to ⭐ star the repository and share feedback!
+## Notes
+- This project is created for learning and portfolio purposes  
+- Dataset used is publicly available  
+- No confidential or proprietary data is included  
