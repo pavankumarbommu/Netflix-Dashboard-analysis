@@ -112,7 +112,7 @@ Suitable for:
 
 ## Author
 Pavan Kumar Bommu  
-Aspiring Data Analyst | Tableau | Data Visualization  
+Data Analyst | Tableau | Data Visualization  
 
 ---
 
